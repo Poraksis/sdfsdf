@@ -1,0 +1,8 @@
+        <button  class="w-48 justify-center  flex flex-row gap-2 items-center  bg-white border border-gray-300 text-sm text-black  px-1 rounded-2xl" >
+            <i class="ri-twitter-fill border-r text-xl px-2"></i>
+            <i class="ri-instagram-line text-xl "></i>
+            <a href="#" class="flex flex-row items-center justify-center gap-2 rounded-xl bg-mavi p-3 text-white">
+                Buy $BHAT
+                <i class="ri-wallet-2-line"></i>
+            </a>
+        </button>
